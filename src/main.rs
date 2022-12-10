@@ -1,4 +1,4 @@
-#[path = "day_2/solution.rs"]
+#[path = "day_3/solution.rs"]
 mod solution;
 
 fn main() {
