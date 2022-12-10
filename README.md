@@ -1,4 +1,4 @@
-# advent-of-code-2022-rust
+# Advent of Code 2022 - Rust
 My Advent of Code 2022 solutions in Rust. 
 
 I'm using Advent of Code as an opportunity to learn Rust and get practice.  
